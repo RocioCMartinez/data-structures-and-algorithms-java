@@ -1,1 +1,7 @@
 # data-structures-and-algorithms-java
+
+### 401 Data Structures
+
+| Table of Contents - Data Structures                                    |
+| -----------------------------------------------------------------------|
+| [Whiteboarding: Array Reversal](./java/reversedArray/README.md)         |
